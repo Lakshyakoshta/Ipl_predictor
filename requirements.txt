@@ -1,4 +1,4 @@
-tensorflow==2.17.1
+tensorflow
 streamlit
 pandas
 scikit-learn
