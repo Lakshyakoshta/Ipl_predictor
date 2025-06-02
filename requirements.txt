@@ -4,7 +4,7 @@ pandas
 scikit-learn
 joblib
 matplotlib
-keras==3.10.0
+keras==2.15.0
 seaborn
 wheel
 numpy
