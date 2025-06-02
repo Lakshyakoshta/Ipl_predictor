@@ -1,10 +1,10 @@
-tensorflow==2.10.0
+tensorflow
 streamlit
 pandas
 scikit-learn
 joblib
 matplotlib
-keras==2.15.0
+keras
 seaborn
 wheel
 numpy
