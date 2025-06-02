@@ -6,3 +6,5 @@ joblib
 matplotlib
 keras
 seaborn
+wheel
+numpy
